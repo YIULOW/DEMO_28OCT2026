@@ -5,10 +5,10 @@
 
 
 // 显示在开始画面上的单元名称 · unit name shown on the start screen
-const UNIT_NAME = "中三 单元一";
+const UNIT_NAME = "中三 G2 单元一";
 
 // 每一局的时间，单位是秒 · seconds per run
-const SECONDS = 90;
+const SECONDS = 30;
 
 // 你的词语。word 是词语，def 是释义。
 // Your vocabulary. `word` is the word, `def` is its meaning.
@@ -27,8 +27,8 @@ const VOCAB = [
   { word: "斟酌", def: "反复考虑，仔细掂量是否合适" },
   { word: "潜移默化", def: "在不知不觉中受到影响而发生变化" },
   { word: "锲而不舍", def: "一直刻下去不放手，比喻有恒心、不放弃" },
-  { word: "南辕北辙", def: "行动和目的正好相反，永远到不了" },
-  { word: "举一反三", def: "从一件事类推，懂得其他许多事" },
+  { word: "和谐", def: "配合得当、协调一致，彼此相处融洽" },
+  { word: "聆听", def: "集中注意力，认真而恭敬地听" },
   // ↑ 照上面的格式往下加就行。别忘了行尾的逗号。
   // ↑ Add more in the same format. Don't forget the comma at the end of each line.
 ];
